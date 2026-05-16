@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - GED</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/fontawesome-free-6.5.2-web/css/all.min.css" />
+    <link rel="stylesheet" href="~/css/layout.css" asp-append-version="true" />
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm modern-header">
+            <div class="container-fluid">
+                <div class="nav-container">
+                    <!-- Logo Section -->
+                    <a class="logo" asp-controller="Home" asp-action="Index">
+                        <img id="appLogo" src="" alt="GED Viewer" class="logo-image">
+                    </a>
+
+                    <!-- Mobile Toggle -->
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <!-- Header Actions -->
+                    <div class="header-actions">
+                        <!-- Theme Toggle -->
+                        <button class="theme-toggle" id="themeToggle" title="Toggle dark mode">
+                            <i class="fas fa-moon"></i>
+                        </button>
+
+                        <!-- User Info -->
+                        <div class="user-info">
+                            @if (User.Identity?.IsAuthenticated == true && User.Identity.Name != null)
+                            {
+                                var userName = User.Identity.Name;
+                                var parts = userName.Split('\\');
+                                var name = parts.Length > 1 ? parts[1] : userName;
+                                <div class="user-avatar">
+                                    @name.Substring(0, 1).ToUpper()
+                                </div>
+                                <span id="username">@name</span>
+                            }
+                            else
+                            {
+                                <div class="user-avatar">
+                                    <i class="fas fa-user"></i>
+                                </div>
+                                <span id="username">Guest</span>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container-fluid">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2025 - Service développement d'application - Gestion éléctronique des documents (GED) 
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    
+    <script src="~/js/layout.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

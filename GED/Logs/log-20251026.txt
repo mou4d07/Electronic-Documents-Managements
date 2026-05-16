@@ -1,0 +1,25 @@
+2025-10-26 06:36:43.616 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-26 06:36:45.388 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-26 06:36:51.308 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-26 06:36:51.399 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-26 06:38:52.147 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-26 06:38:52.297 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-26 06:39:00.788 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-26 06:39:00.796 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-26 06:40:24.573 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-26 06:40:24.585 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-26 06:41:09.063 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-26 06:41:09.073 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-26 06:51:10.865 +01:00 [WRN] Unable to contact VS to retrieve Browser Link script tag.
+2025-10-26 06:51:19.305 +01:00 [WRN] Unable to contact VS to retrieve Browser Link script tag.
+2025-10-26 06:53:49.431 +01:00 [WRN] Unable to contact VS to retrieve Browser Link script tag.
+2025-10-26 06:54:28.617 +01:00 [WRN] Unable to contact VS to retrieve Browser Link script tag.
+2025-10-26 06:54:46.721 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-26 06:54:49.167 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-26 06:54:49.879 +01:00 [WRN] Unable to contact VS to retrieve Browser Link script tag.
+2025-10-26 06:55:02.714 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-26 06:55:05.893 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-26 06:55:20.762 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-26 06:55:20.853 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-26 06:57:00.753 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-26 06:57:00.849 +01:00 [INF] User ALSOLB\admin_dem is authorized.

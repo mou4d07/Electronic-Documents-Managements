@@ -1,0 +1,18 @@
+2025-10-27 23:15:03.146 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-27 23:15:06.665 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-27 23:15:19.559 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-27 23:15:19.588 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-27 23:56:36.124 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-27 23:56:39.454 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-27 23:56:59.315 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-27 23:56:59.402 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-27 23:57:08.122 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-27 23:57:08.275 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-27 23:57:15.646 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-27 23:57:15.659 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-27 23:57:28.484 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-27 23:57:28.499 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-27 23:57:31.084 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-27 23:57:31.098 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-27 23:57:45.075 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-27 23:57:45.088 +01:00 [INF] User ALSOLB\admin_dem is authorized.

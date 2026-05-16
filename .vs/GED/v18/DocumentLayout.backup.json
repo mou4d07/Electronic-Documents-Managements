@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\repos\\GED - Copie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B763976-3FB0-434E-9A64-2C8A66E6B52F}|GED\\GED.csproj|e:\\repos\\ged - copie\\ged\\wwwroot\\js\\show.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B763976-3FB0-434E-9A64-2C8A66E6B52F}|GED\\GED.csproj|solutionrelative:ged\\wwwroot\\js\\show.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B763976-3FB0-434E-9A64-2C8A66E6B52F}|GED\\GED.csproj|e:\\repos\\ged - copie\\ged\\services\\planservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B763976-3FB0-434E-9A64-2C8A66E6B52F}|GED\\GED.csproj|solutionrelative:ged\\services\\planservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B763976-3FB0-434E-9A64-2C8A66E6B52F}|GED\\GED.csproj|e:\\repos\\ged - copie\\ged\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B763976-3FB0-434E-9A64-2C8A66E6B52F}|GED\\GED.csproj|solutionrelative:ged\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B763976-3FB0-434E-9A64-2C8A66E6B52F}|GED\\GED.csproj|e:\\repos\\ged - copie\\ged\\ged.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B763976-3FB0-434E-9A64-2C8A66E6B52F}|GED\\GED.csproj|solutionrelative:ged\\ged.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B763976-3FB0-434E-9A64-2C8A66E6B52F}|GED\\GED.csproj|e:\\repos\\ged - copie\\ged\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B763976-3FB0-434E-9A64-2C8A66E6B52F}|GED\\GED.csproj|solutionrelative:ged\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B763976-3FB0-434E-9A64-2C8A66E6B52F}|GED\\GED.csproj|e:\\repos\\ged - copie\\ged\\views\\home\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B763976-3FB0-434E-9A64-2C8A66E6B52F}|GED\\GED.csproj|solutionrelative:ged\\views\\home\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B763976-3FB0-434E-9A64-2C8A66E6B52F}|GED\\GED.csproj|e:\\repos\\ged - copie\\ged\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B763976-3FB0-434E-9A64-2C8A66E6B52F}|GED\\GED.csproj|solutionrelative:ged\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B763976-3FB0-434E-9A64-2C8A66E6B52F}|GED\\GED.csproj|e:\\repos\\ged - copie\\ged\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B763976-3FB0-434E-9A64-2C8A66E6B52F}|GED\\GED.csproj|solutionrelative:ged\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B763976-3FB0-434E-9A64-2C8A66E6B52F}|GED\\GED.csproj|e:\\repos\\ged - copie\\ged\\views\\home\\_plantable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B763976-3FB0-434E-9A64-2C8A66E6B52F}|GED\\GED.csproj|solutionrelative:ged\\views\\home\\_plantable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\repos\\GED - Copie\\GED\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GED\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\repos\\GED - Copie\\GED\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GED\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T22:54:32.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\repos\\GED - Copie\\GED\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "GED\\Services\\UserService.cs",
+              "ToolTip": "E:\\repos\\GED - Copie\\GED\\Services\\UserService.cs",
+              "RelativeToolTip": "GED\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T22:53:49.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\GED - Copie\\GED\\Program.cs",
+              "RelativeDocumentMoniker": "GED\\Program.cs",
+              "ToolTip": "E:\\repos\\GED - Copie\\GED\\Program.cs",
+              "RelativeToolTip": "GED\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:58:18.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "show.js",
+              "DocumentMoniker": "E:\\repos\\GED - Copie\\GED\\wwwroot\\js\\show.js",
+              "RelativeDocumentMoniker": "GED\\wwwroot\\js\\show.js",
+              "ToolTip": "E:\\repos\\GED - Copie\\GED\\wwwroot\\js\\show.js",
+              "RelativeToolTip": "GED\\wwwroot\\js\\show.js",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAD4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-23T11:36:28.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\repos\\GED - Copie\\GED\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GED\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\repos\\GED - Copie\\GED\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GED\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-21T16:22:00.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "E:\\repos\\GED - Copie\\GED\\Views\\Home\\Show.cshtml",
+              "RelativeDocumentMoniker": "GED\\Views\\Home\\Show.cshtml",
+              "ToolTip": "E:\\repos\\GED - Copie\\GED\\Views\\Home\\Show.cshtml",
+              "RelativeToolTip": "GED\\Views\\Home\\Show.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-21T16:22:00.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GED.csproj",
+              "DocumentMoniker": "E:\\repos\\GED - Copie\\GED\\GED.csproj",
+              "RelativeDocumentMoniker": "GED\\GED.csproj",
+              "ToolTip": "E:\\repos\\GED - Copie\\GED\\GED.csproj",
+              "RelativeToolTip": "GED\\GED.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-27T22:54:44.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlanService.cs",
+              "DocumentMoniker": "E:\\repos\\GED - Copie\\GED\\Services\\PlanService.cs",
+              "RelativeDocumentMoniker": "GED\\Services\\PlanService.cs",
+              "ToolTip": "E:\\repos\\GED - Copie\\GED\\Services\\PlanService.cs",
+              "RelativeToolTip": "GED\\Services\\PlanService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvywAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T22:54:24.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_PlanTable.cshtml",
+              "DocumentMoniker": "E:\\repos\\GED - Copie\\GED\\Views\\Home\\_PlanTable.cshtml",
+              "RelativeDocumentMoniker": "GED\\Views\\Home\\_PlanTable.cshtml",
+              "ToolTip": "E:\\repos\\GED - Copie\\GED\\Views\\Home\\_PlanTable.cshtml",
+              "RelativeToolTip": "GED\\Views\\Home\\_PlanTable.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-21T16:22:00.333Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

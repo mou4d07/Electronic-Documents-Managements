@@ -1,0 +1,48 @@
+﻿@model IEnumerable<PlanViewModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+    int totalCount = (int)ViewData["TotalCount"]!;
+    int page = (int)ViewData["Page"]!;
+    int pageSize = (int)ViewData["PageSize"]!;
+    string searchTerm = ViewData["SearchTerm"] as string ?? "";
+}
+
+<div class="container-fluid">
+    <div class="row mb-3">
+        <div class="col-md-6">
+            <h3>Liste des plans</h3>
+            <p class="text-muted">Totale: @totalCount plans</p>
+        </div>
+        <div class="col-md-6">
+            <form id="searchForm" onsubmit="return false;">
+                <div class="input-group">
+                    <input type="text" name="searchTerm" id="searchInput" class="form-control" placeholder="Rechercher par nom ou désignation..." value="@searchTerm">
+                    <input type="hidden" name="page" id="pageInput" value="1">
+                    <button class="btn btn-primary" id="searchButton" type="button"><i class="fas fa-search"></i> Recherche</button>
+                    <a href="#" id="clearButton" class="btn btn-outline-secondary"><i class="fas fa-times"></i></a>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div id="plans-container">
+        <!-- Loader overlay -->
+        <div id="tableLoader">
+            <div class="loader-spinner"></div>
+            <div>Recherche en cours...</div>
+        </div>
+
+        <!-- Table content -->
+        <div id="tableContent">
+            <partial name="_PlanTable" model="Model" view-data="ViewData" />
+        </div>
+    </div>
+</div>
+
+    @section Scripts {
+        <script>
+            window.basePath = '@Url.Content("~/")';
+        </script>
+        <script src="~/js/index.js"></script>
+    }

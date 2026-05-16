@@ -1,0 +1,100 @@
+@model ShowViewModel
+
+@{
+    ViewData["Title"] = "Plan Viewer";
+
+    var fileName = Model.Fichier?.FileName ?? "";
+    var jpegName = System.IO.Path.ChangeExtension(fileName, ".jpg");
+    var relativePath = Url.Action("GetJpegFile", "Home", new { jpegName = jpegName });
+    var absolutePath = System.IO.Path.Combine(@"\\139.53.3.112\plansJpeg", jpegName);
+
+    bool fileExists = System.IO.File.Exists(absolutePath);
+    var filePath = Url.Content(relativePath);
+}
+
+<link rel="stylesheet" href="~/css/show.css" asp-append-version="true" />
+
+<div id="viewer-container">
+
+    @if (fileExists)
+    {
+        <div id="loading-overlay">
+            <div class="spinner-border" role="status"></div>
+            <div class="loading-text">Chargement du plan en cours...</div>
+        </div>
+        <div id="openseadragon-viewer" data-jpeg-path="@relativePath"></div>
+    }
+    else
+    {
+        <div class="nofile-container">
+            <div class="nofile-content">
+                <div class="nofile-icon">&#9888;</div>
+            <h4 class="nofile-title">
+                    L'image est indisponible sur le serveur
+                </h4>
+                <p class="nofile-text">
+                    Le fichier demandé n'a pas pu etre trouvé.<br>
+                    Il a peut-etre été déplacé ou supprimé.
+                </p>
+                <a href="/ged" class="nofile-button">
+                    &#8592; Retour à la liste des plans
+                </a>
+            </div>
+        </div>
+
+    }
+
+    <div id="sidebar" class="sidebar collapsed">
+        <button id="sidebar-toggle" class="sidebar-toggle-btn">
+            <i class="fas fa-chevron-left"></i>
+        </button>
+        <div class="sidebar-content">
+            <h4>Details du plan</h4>
+            <hr />
+            @if (Model.Plan != null)
+            {
+                <dl class="row">
+                    <dt class="col-sm-5">Sous titre</dt>
+                    <dd class="col-sm-7">@Model.Plan.Subtitle</dd>
+
+                    <dt class="col-sm-5">Désignation</dt>
+                    <dd class="col-sm-7">@Model.Plan.Designation</dd>
+
+                    <dt class="col-sm-5">Numéro Plan Constructeur #</dt>
+                    <dd class="col-sm-7">@Model.Plan.ConstructorPlanNumber</dd>
+
+                    <dt class="col-sm-5">Numéro Plan Project #</dt>
+                    <dd class="col-sm-7">@Model.Plan.ProjectPlanNumber</dd>
+
+                    <dt class="col-sm-5">Numéro Plan ALSOLB</dt>
+                    <dd class="col-sm-7">@Model.Plan.SiderPlanNumber</dd>
+
+                    <dt class="col-sm-5">Specialty</dt>
+                    <dd class="col-sm-7">@Model.Plan.Specialty</dd>
+
+                    <dt class="col-sm-5">Drawer</dt>
+                    <dd class="col-sm-7">@Model.Plan.Drawer</dd>
+
+                    <dt class="col-sm-5">Cob Unité</dt>
+                    <dd class="col-sm-7">@Model.Plan.CobUnit</dd>
+                </dl>
+                <a href="@Url.Action("GetJpegFile", "Home", new { jpegName = jpegName, download = true })" class="download-button mb-2">
+                    <i class="fas fa-download"></i> Télécharger le plan
+                </a>
+                <a href="/ged" class="nofile-button">
+                    &#8592; Retour à la liste des plans
+                </a>
+            }
+            else
+            {
+                <p>Les détails sur le plan sont indisponible.</p>
+            }
+        </div>
+    </div>
+</div>
+
+    @section Scripts {
+        <link rel="stylesheet" href="~/lib/fontawesome-free-6.5.2-web/css/all.min.css" />
+        <script src="~/lib/openseadragon-bin-4.1.1/openseadragon.min.js"></script>
+        <script src="~/js/show.js"></script>
+    }

@@ -1,0 +1,41 @@
+#loading-overlay {
+    position: absolute; /* not fixed! */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: var(--bg-primary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10; /* stay above the viewer but below the navbar */
+}
+
+.spinner-border {
+    width: 3rem;
+    height: 3rem;
+    color: var(--primary-color);
+}
+
+.loading-text {
+    margin-top: 1rem;
+    color: var(--text-primary);
+    font-weight: 500;
+}
+
+.print-button-osd {
+    background-image: url('/ged/lib/openseadragon-bin-4.1.1/images/print_rest.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 50px;
+    height: 50px; 
+    transition: background-image 0.2s ease-in-out;
+    top : -100%;
+    left : 14.5%;
+    margin-right : 15px;
+}
+
+.print-button-osd:hover {
+    background-image: url('/ged/lib/openseadragon-bin-4.1.1/images/print_hover.png');
+}

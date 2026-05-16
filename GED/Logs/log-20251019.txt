@@ -1,0 +1,266 @@
+2025-10-19 09:17:44.129 +01:00 [WRN] Failed to determine the https port for redirect.
+2025-10-19 09:17:44.699 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:17:47.725 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:18:01.051 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:18:01.083 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:18:41.636 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:18:41.938 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:18:57.524 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:18:57.541 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:19:00.949 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:19:00.963 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:19:28.932 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:19:29.046 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:19:32.819 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:19:32.828 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:19:38.046 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:19:38.063 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:19:40.906 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:19:40.920 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:19:56.184 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:19:56.203 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:20:03.759 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:20:03.771 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:20:25.862 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:20:25.925 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:21:58.631 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:21:58.819 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:23:54.626 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:23:54.858 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:24:01.161 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:24:01.172 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:26:08.416 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:26:08.416 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:26:08.693 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:26:08.693 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:30:26.172 +01:00 [WRN] Failed to determine the https port for redirect.
+2025-10-19 09:30:27.133 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:30:28.578 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:30:39.446 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:30:39.513 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:30:50.900 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:30:50.987 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:32:11.910 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:32:11.922 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:32:13.709 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:32:13.723 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:32:38.885 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:32:38.892 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:32:46.590 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:32:46.598 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:32:47.440 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:32:47.451 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:32:48.091 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:32:48.106 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:32:51.239 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:32:51.256 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:32:54.971 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:32:54.979 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:37:20.242 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:37:20.328 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:37:43.695 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:37:43.702 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:37:51.406 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:37:51.415 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:39:48.921 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:39:48.937 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:40:02.792 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:40:02.810 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:40:10.572 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:40:10.581 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:46:56.588 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:46:56.662 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:47:01.791 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:47:01.805 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:47:02.854 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:47:02.863 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 09:47:03.740 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 09:47:03.748 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:03:49.128 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:03:49.200 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:04:00.153 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:04:00.165 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:05:04.488 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:05:04.495 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:05:52.304 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:05:52.313 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:07:45.543 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:07:45.550 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:07:48.568 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:07:48.573 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:07:49.575 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:07:49.578 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:07:50.341 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:07:50.344 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:08:04.910 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:08:04.913 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:08:06.285 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:08:06.289 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:08:08.339 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:08:08.342 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:08:10.305 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:08:10.311 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:08:12.166 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:08:12.169 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:08:20.254 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:08:20.259 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:08:21.941 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:08:21.948 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:08:23.240 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:08:23.250 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:08:24.379 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:08:24.390 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:08:26.204 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:08:26.211 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:08:31.567 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:08:31.570 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:08:39.834 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:08:39.837 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:08:40.825 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:08:40.830 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:08:43.889 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:08:43.893 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:08:48.720 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:08:48.726 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:08:50.529 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:08:50.531 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:08:52.039 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:08:52.043 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:08:54.574 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:08:54.577 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:08:56.704 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:08:56.706 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:09:01.919 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:09:01.924 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:09:06.832 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:09:06.835 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:09:11.887 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:09:11.893 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:09:14.001 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:09:14.003 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:09:35.895 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:09:35.902 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:09:44.206 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:09:44.212 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:09:51.693 +01:00 [INF] Checking authorization for user: admin_dem
+2025-10-19 10:09:51.695 +01:00 [INF] User admin_dem is authorized.
+2025-10-19 10:15:00.320 +01:00 [WRN] Failed to determine the https port for redirect.
+2025-10-19 10:15:00.568 +01:00 [INF] Checking authorization for user: null
+2025-10-19 10:15:32.981 +01:00 [WRN] Unauthorized user access attempt: null
+2025-10-19 10:30:03.904 +01:00 [WRN] Failed to determine the https port for redirect.
+2025-10-19 10:30:39.427 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 10:30:40.842 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 10:47:34.745 +01:00 [WRN] Failed to determine the https port for redirect.
+2025-10-19 10:47:54.823 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 10:47:56.281 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 10:48:27.791 +01:00 [INF] Checking authorization for user: ALSOLB\Nabil.Bouhafs
+2025-10-19 10:48:30.705 +01:00 [WRN] Unauthorized user access attempt: ALSOLB\Nabil.Bouhafs
+2025-10-19 10:48:50.297 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 10:48:50.374 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 14:05:57.972 +01:00 [WRN] Failed to determine the https port for redirect.
+2025-10-19 14:06:19.451 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 14:06:20.835 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 14:51:02.140 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 14:51:03.281 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 14:51:10.209 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 14:51:10.317 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 14:51:12.684 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 14:51:12.730 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 14:52:12.562 +01:00 [ERR] Hosting failed to start
+System.InvalidOperationException: A path base can only be configured using IApplicationBuilder.UsePathBase().
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.ParseAddress(String address, Boolean& https)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.BindAsync(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__14_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+2025-10-19 15:08:47.968 +01:00 [ERR] Hosting failed to start
+System.InvalidOperationException: A path base can only be configured using IApplicationBuilder.UsePathBase().
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.ParseAddress(String address, Boolean& https)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.BindAsync(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__14_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+2025-10-19 15:15:44.994 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 15:15:46.184 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 15:34:46.019 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 15:34:47.621 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 15:34:59.593 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 15:34:59.628 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 15:37:18.152 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 15:37:18.329 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 15:39:26.781 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 15:39:26.814 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 15:39:27.237 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 15:39:27.247 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 15:40:35.658 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 15:40:35.666 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 15:40:44.459 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 15:40:44.470 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 15:41:14.343 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 15:41:14.369 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 16:38:42.972 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 16:38:44.851 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 16:40:12.529 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 16:40:14.443 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 16:40:53.709 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 16:40:53.761 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 16:40:56.242 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 16:40:56.366 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 16:41:17.538 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 16:41:17.548 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 16:41:27.768 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 16:41:27.784 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 16:41:29.072 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 16:41:29.084 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 16:41:31.728 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 16:41:31.750 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 16:41:39.605 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 16:41:39.624 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 16:41:53.809 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 16:41:53.819 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 16:41:54.079 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 16:41:54.083 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 16:41:56.550 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 16:41:56.668 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 16:42:01.319 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 16:42:01.328 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 16:59:08.779 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 16:59:10.522 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 16:59:14.505 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 16:59:14.528 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 17:00:41.808 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 17:00:41.893 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 17:00:43.544 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 17:00:43.567 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 17:00:44.577 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 17:00:44.587 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 17:00:45.101 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 17:00:45.107 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 21:44:41.653 +01:00 [WRN] Failed to determine the https port for redirect.
+2025-10-19 21:45:42.846 +01:00 [WRN] Failed to determine the https port for redirect.
+2025-10-19 21:47:08.460 +01:00 [WRN] Failed to determine the https port for redirect.
+2025-10-19 21:48:30.338 +01:00 [ERR] An exception occurred while processing the authentication request.
+System.InvalidOperationException: An anonymous request was received in between authentication handshake requests.
+   at Microsoft.AspNetCore.Authentication.Negotiate.NegotiateHandler.HandleRequestAsync()
+2025-10-19 21:48:30.473 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: An anonymous request was received in between authentication handshake requests.
+   at Microsoft.AspNetCore.Authentication.Negotiate.NegotiateHandler.HandleRequestAsync()
+   at Microsoft.AspNetCore.Authentication.Negotiate.NegotiateHandler.HandleRequestAsync()
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-10-19 22:13:51.547 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 22:13:55.022 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 22:16:02.347 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 22:16:02.387 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 22:18:27.203 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 22:18:27.267 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 22:18:47.807 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 22:18:47.818 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 22:19:12.448 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 22:19:12.459 +01:00 [INF] User ALSOLB\admin_dem is authorized.
+2025-10-19 22:19:19.821 +01:00 [INF] Checking authorization for user: ALSOLB\admin_dem
+2025-10-19 22:19:19.840 +01:00 [INF] User ALSOLB\admin_dem is authorized.

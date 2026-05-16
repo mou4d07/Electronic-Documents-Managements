@@ -1,0 +1,14 @@
+2026-03-05 09:33:01.352 +01:00 [INF] Checking authorization for user: ALSOLB\mounir.boudmagh
+2026-03-05 09:33:03.215 +01:00 [INF] User ALSOLB\mounir.boudmagh is authorized.
+2026-03-05 09:34:27.566 +01:00 [INF] Checking authorization for user: ALSOLB\mounir.boudmagh
+2026-03-05 09:34:27.875 +01:00 [INF] User ALSOLB\mounir.boudmagh is authorized.
+2026-03-05 09:34:32.936 +01:00 [INF] Checking authorization for user: ALSOLB\mounir.boudmagh
+2026-03-05 09:34:33.006 +01:00 [INF] User ALSOLB\mounir.boudmagh is authorized.
+2026-03-05 09:34:35.750 +01:00 [INF] Checking authorization for user: ALSOLB\mounir.boudmagh
+2026-03-05 09:34:35.762 +01:00 [INF] User ALSOLB\mounir.boudmagh is authorized.
+2026-03-05 09:34:38.268 +01:00 [INF] Checking authorization for user: ALSOLB\mounir.boudmagh
+2026-03-05 09:34:38.282 +01:00 [INF] User ALSOLB\mounir.boudmagh is authorized.
+2026-03-05 09:34:41.122 +01:00 [INF] Checking authorization for user: ALSOLB\mounir.boudmagh
+2026-03-05 09:34:41.134 +01:00 [INF] User ALSOLB\mounir.boudmagh is authorized.
+2026-03-05 09:34:41.280 +01:00 [INF] Checking authorization for user: ALSOLB\mounir.boudmagh
+2026-03-05 09:34:41.283 +01:00 [INF] User ALSOLB\mounir.boudmagh is authorized.
